@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Dipanshu<br><br>💻 Full-Stack Developer passionate about building scalable web applications.<br>🚀 Currently focused on MERN Stack, Data Structures & Algorithms, and System Design.<br>📚 Solved 600+ DSA problems across LeetCode, GeeksforGeeks, and Coding Ninjas.<br>🌱 ⚡ Passionate about learning new technologies and turning ideas into practical software solutions.<br>🎯 Goal: Crack top product-based companies and build impactful tech products.<br><br>🔧 Tech Stack:<br>JavaScript | React.js | Node.js | Express.js | MongoDB | Java | Git | GitHub | Socket.io<br><br>Always learning, building, and improving one commit at a time 🚀
+👋 Hi, I'm Dipanshu<br><br>💻 Full-Stack Developer passionate about building scalable web applications.<br>🚀 Currently focused on MERN Stack, Data Structures & Algorithms, and System Design.<br>📚 Solved 600+ DSA problems across LeetCode, GeeksforGeeks, and Coding Ninjas.<br>🌱 ⚡ Passionate about learning new technologies and turning ideas into practical software solutions.<br>🎯 Goal: Crack top product-based companies and build impactful tech products.<br><br>🔧 Tech Stack:<br>JavaScript | React.js | Node.js | Express.js | MongoDB | Zustand | Java | Git | GitHub | Socket.io<br><br>Always learning, building, and improving one commit at a time 🚀
 
 
 ## 🌐 Socials:
